@@ -14,7 +14,7 @@
 
 ## ترجمه‌ها ##
 
-* [فارسی](https://github.com/mehdisayyadnahed/the-little-go-book/tree/master/pe) توسط Mehdi Sayyadnahed - ( مهدی صیادناهد )
+* [فارسی](https://github.com/mehdisayyadnahed/the-little-go-book/tree/master/pe) توسط مهدی صیادناهد - ( Mehdi Sayyadnahed )
 * [پرتغالی](https://github.com/igorverse/the-little-go-book/tree/master/pt-br) (در حال انجام) توسط Fabrício Soares و Igor
 * [اسپانیایی](https://raulexposito.com/the-little-go-book-en-castellano.html) توسط Raúl Expósito
 * [چینی](https://github.com/songleo/the-little-go-book_ZH_CN) توسط Songleo
