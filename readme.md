@@ -29,7 +29,7 @@
 * [ترکی](https://github.com/umutphp/the-little-go-book) توسط Umut Işık
 
 ## فرمت‌ها ##
-این کتاب به فرمت [ماردکاون](https://daringfireball.net/projects/markdown/) نوشته شده و با استفاده از [پاندوک](https://pandoc.org) به PDF تبدیل شده است.
+این کتاب به فرمت [مارک‌داون](https://daringfireball.net/projects/markdown/) نوشته شده و با استفاده از [پاندوک](https://pandoc.org) به PDF تبدیل شده است.
 
 قالب TeX از ابزار برجسته‌سازی نحوی (highlighter) جاوااسکریپتِ Lena Herrmann استفاده می‌کند.
 
